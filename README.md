@@ -1,6 +1,11 @@
 # drf-vue-element-admin
 后台管理系统，后端基于django+drf，前端基于vue-elemnt-admin，集成账号权限控制功能。
 # 系统演示
+![image](https://github.com/mattF76/drf-vue-element-admin/blob/main/pics/login.png)
+![image](https://github.com/mattF76/drf-vue-element-admin/blob/main/pics/account.png)
+![image](https://github.com/mattF76/drf-vue-element-admin/blob/main/pics/role.png)
+![image](https://github.com/mattF76/drf-vue-element-admin/blob/main/pics/permission.png)
+![image](https://github.com/mattF76/drf-vue-element-admin/blob/main/pics/django%20admin.png)
 
 # 运行
 进入后端项目backend目录，运行`docker-compose up --build`即可。浏览器访问http://127.0.0.1:9080/  
@@ -9,7 +14,15 @@ django admin后台账户需要进入api容器，运行`python manage.py createsu
 
 # 开发
 ## 后端本地开发运行
-进入backend目录，修改setting.py，选择使用sqlite数据库。  
+进入backend目录，修改setting.py，选择使用sqlite数据库，注释掉mysql数据库。  
+```
+DATABASES = {
+     'default': {
+         'ENGINE': 'django.db.backends.sqlite3',
+         'NAME': BASE_DIR / 'db.sqlite3',
+     }
+ }
+```
 运行`python manage.py runserver`启动后端。  
 ## 前端本地开发运行
 进入front目录，运行`npm run dev`。  
