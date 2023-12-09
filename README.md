@@ -1,5 +1,4 @@
 # drf-vue-element-admin
-后台管理系统，后端基于django+drf，前端基于vue-elemnt-admin，集成账号权限控制功能。
 # 系统演示
 ![image](https://github.com/mattF76/drf-vue-element-admin/blob/main/pics/login.png)
 ![image](https://github.com/mattF76/drf-vue-element-admin/blob/main/pics/account.png)
@@ -9,7 +8,7 @@
 
 # 运行
 进入后端项目backend目录，运行`docker-compose up --build`即可。浏览器访问http://127.0.0.1:9080/  
-
+系统登录的账号需要先进入django admin在Account创建一个admin账号。  
 django admin后台账户需要进入api容器，运行`python manage.py createsuperuser`创建账号。django admin访问地址是http://127.0.0.1:9080/admin/  
 
 # 开发
