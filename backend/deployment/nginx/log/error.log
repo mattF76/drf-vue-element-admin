@@ -1,0 +1,11 @@
+2023/12/06 12:16:50 [notice] 1#1: using the "epoll" event method
+2023/12/06 12:16:50 [notice] 1#1: nginx/1.25.3
+2023/12/06 12:16:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/06 12:16:50 [notice] 1#1: OS: Linux 6.3.13-linuxkit
+2023/12/06 12:16:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/06 12:16:50 [notice] 1#1: start worker processes
+2023/12/06 12:16:50 [notice] 1#1: start worker process 19
+2023/12/06 12:16:50 [notice] 1#1: start worker process 20
+2023/12/06 12:16:50 [notice] 1#1: start worker process 21
+2023/12/06 12:16:50 [notice] 1#1: start worker process 22
+2023/12/06 12:19:35 [error] 20#20: *22 open() "/usr/share/nginx/html/vue/admin" failed (2: No such file or directory), client: 192.168.65.1, server: 127.0.0.1, request: "GET /admin HTTP/1.1", host: "localhost:9080"

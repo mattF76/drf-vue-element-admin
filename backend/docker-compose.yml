@@ -1,0 +1,63 @@
+version: "3"
+services:
+#  redis:
+#    image: daocloud.io/redis:3
+#    command: redis-server
+#    volumes:
+#      - ./deployment/redis:/data
+#    ports:
+#      - "6379:6379"
+#    restart: always # always表容器运行发生错误时一直重启
+
+  db:
+    image: mysql:latest
+    container_name: db
+    environment:
+      - MYSQL_DATABASE=matt_admin # 数据库名称
+      - MYSQL_ROOT_PASSWORD=root # 数据库密码
+    volumes:
+      - ./deployment/mysql/data:/var/lib/mysql # 挂载数据库数据
+      - ./deployment/mysql/conf/my.cnf:/etc/mysql/my.cnf # 挂载配置文件
+      - ./deployment/mysql/init:/docker-entrypoint-initdb.d/ # 挂载数据初始化sql脚本
+    ports:
+      - "13306:3306"
+    restart: always
+
+  api:
+    container_name: api
+    build: .
+#    expose:
+#      - "8000"
+    ports:
+      - "9081:8080"
+    volumes:
+      - .:/opt/app
+      - ./deployment/api/log:/var/log/gunicorn # 挂载gunicorn日志
+    command: bash start.sh
+    links:
+      - db
+#      - redis
+    depends_on:
+      - db
+#      - redis
+    restart: always
+
+  nginx:
+    container_name: nginx
+    build: deployment/nginx
+    ports:
+      - "9080:80"
+      - "9443:443"
+#    expose:
+#      - "8000"
+    volumes:
+      - ./collect_static:/usr/share/nginx/html/static # 挂载静态文件
+      - ./media:/usr/share/nginx/html/media # 挂载上传文件
+      - ./deployment/nginx/ssl:/usr/share/nginx/ssl # 挂载ssl证书目录
+      - ./deployment/nginx/log:/var/log/nginx # 挂载nginx日志
+      - ./deployment/nginx/vue:/usr/share/nginx/html/vue # 挂载前端vue
+    links:
+      - api
+    depends_on:
+      - api
+    restart: always

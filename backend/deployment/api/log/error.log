@@ -1,0 +1,1025 @@
+[2023-11-29 13:35:25 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:11)
+[2023-11-29 13:35:25 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:12)
+[2023-11-29 13:35:26 +0000] [10] [ERROR] Worker (pid:11) exited with code 1
+[2023-11-29 13:35:26 +0000] [10] [ERROR] Worker (pid:11) exited with code 1.
+[2023-11-29 13:35:26 +0000] [10] [ERROR] Worker (pid:12) exited with code 1
+[2023-11-29 13:35:26 +0000] [10] [ERROR] Worker (pid:12) exited with code 1.
+[2023-11-29 13:38:51 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:14)
+[2023-11-29 13:38:51 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:15)
+[2023-11-29 13:38:51 +0000] [10] [ERROR] Worker (pid:15) exited with code 1
+[2023-11-29 13:38:51 +0000] [10] [ERROR] Worker (pid:15) exited with code 1.
+[2023-11-29 13:38:51 +0000] [10] [ERROR] Worker (pid:14) exited with code 1
+[2023-11-29 13:38:51 +0000] [10] [ERROR] Worker (pid:14) exited with code 1.
+[2023-11-29 14:08:31 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:17)
+[2023-11-29 14:08:32 +0000] [10] [ERROR] Worker (pid:17) exited with code 1
+[2023-11-29 14:08:32 +0000] [10] [ERROR] Worker (pid:17) exited with code 1.
+[2023-11-29 14:40:40 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:18)
+[2023-11-29 14:40:40 +0000] [10] [ERROR] Worker (pid:18) exited with code 1
+[2023-11-29 14:40:40 +0000] [10] [ERROR] Worker (pid:18) exited with code 1.
+[2023-11-29 15:46:08 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:13)
+[2023-11-29 15:46:08 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:16)
+[2023-11-29 15:46:08 +0000] [10] [ERROR] Worker (pid:16) exited with code 1
+[2023-11-29 15:46:08 +0000] [10] [ERROR] Worker (pid:16) exited with code 1.
+[2023-11-29 15:46:08 +0000] [10] [ERROR] Worker (pid:13) was sent SIGKILL! Perhaps out of memory?
+[2023-11-29 16:48:49 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:19)
+[2023-11-29 16:48:49 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:20)
+[2023-11-29 16:48:49 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:21)
+[2023-11-29 16:48:49 +0000] [10] [ERROR] Worker (pid:20) exited with code 1
+[2023-11-29 16:48:49 +0000] [10] [ERROR] Worker (pid:20) exited with code 1.
+[2023-11-29 16:48:49 +0000] [10] [ERROR] Worker (pid:21) exited with code 1
+[2023-11-29 16:48:49 +0000] [10] [ERROR] Worker (pid:21) exited with code 1.
+[2023-11-29 16:48:49 +0000] [10] [ERROR] Worker (pid:19) exited with code 1
+[2023-11-29 16:48:49 +0000] [10] [ERROR] Worker (pid:19) exited with code 1.
+[2023-11-29 17:53:58 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:23)
+[2023-11-29 17:53:58 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:24)
+[2023-11-29 17:53:58 +0000] [10] [ERROR] Worker (pid:23) exited with code 1
+[2023-11-29 17:53:58 +0000] [10] [ERROR] Worker (pid:23) exited with code 1.
+[2023-11-29 17:53:58 +0000] [10] [ERROR] Worker (pid:24) exited with code 1
+[2023-11-29 17:53:58 +0000] [10] [ERROR] Worker (pid:24) exited with code 1.
+[2023-11-29 19:15:50 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:22)
+[2023-11-29 19:15:50 +0000] [10] [ERROR] Worker (pid:22) exited with code 1
+[2023-11-29 19:15:50 +0000] [10] [ERROR] Worker (pid:22) exited with code 1.
+[2023-11-29 20:20:25 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:27)
+[2023-11-29 20:20:25 +0000] [10] [ERROR] Worker (pid:27) exited with code 1
+[2023-11-29 20:20:25 +0000] [10] [ERROR] Worker (pid:27) exited with code 1.
+[2023-11-29 23:43:49 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:25)
+[2023-11-29 23:43:49 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:26)
+[2023-11-29 23:43:49 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:28)
+[2023-11-29 23:43:49 +0000] [10] [ERROR] Worker (pid:28) exited with code 1
+[2023-11-29 23:43:49 +0000] [10] [ERROR] Worker (pid:28) exited with code 1.
+[2023-11-29 23:43:49 +0000] [10] [ERROR] Worker (pid:26) exited with code 1
+[2023-11-29 23:43:49 +0000] [10] [ERROR] Worker (pid:26) exited with code 1.
+[2023-11-30 00:50:04 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:30)
+[2023-11-30 00:50:04 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:31)
+[2023-11-30 00:50:04 +0000] [10] [ERROR] Worker (pid:30) exited with code 1
+[2023-11-30 00:50:04 +0000] [10] [ERROR] Worker (pid:30) exited with code 1.
+[2023-11-30 00:50:04 +0000] [10] [ERROR] Worker (pid:31) exited with code 1
+[2023-11-30 00:50:04 +0000] [10] [ERROR] Worker (pid:31) exited with code 1.
+[2023-11-30 01:40:23 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:32)
+[2023-11-30 01:40:23 +0000] [10] [ERROR] Worker (pid:32) exited with code 1
+[2023-11-30 01:40:23 +0000] [10] [ERROR] Worker (pid:32) exited with code 1.
+[2023-11-30 02:14:21 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:29)
+[2023-11-30 02:14:21 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:34)
+[2023-11-30 02:14:21 +0000] [10] [ERROR] Worker (pid:29) exited with code 1
+[2023-11-30 02:14:21 +0000] [10] [ERROR] Worker (pid:29) exited with code 1.
+[2023-11-30 02:14:21 +0000] [10] [ERROR] Worker (pid:34) exited with code 1
+[2023-11-30 02:14:21 +0000] [10] [ERROR] Worker (pid:34) exited with code 1.
+[2023-11-30 02:48:20 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:35)
+[2023-11-30 02:48:20 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:36)
+[2023-11-30 02:48:20 +0000] [10] [ERROR] Worker (pid:35) exited with code 1
+[2023-11-30 02:48:20 +0000] [10] [ERROR] Worker (pid:35) exited with code 1.
+[2023-11-30 02:48:20 +0000] [10] [ERROR] Worker (pid:36) exited with code 1
+[2023-11-30 02:48:20 +0000] [10] [ERROR] Worker (pid:36) exited with code 1.
+[2023-11-30 03:40:49 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:37)
+[2023-11-30 03:40:49 +0000] [10] [ERROR] Worker (pid:37) exited with code 1
+[2023-11-30 03:40:49 +0000] [10] [ERROR] Worker (pid:37) exited with code 1.
+[2023-11-30 05:06:05 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:33)
+[2023-11-30 05:06:05 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:38)
+[2023-11-30 05:06:05 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:39)
+[2023-11-30 05:06:05 +0000] [10] [ERROR] Worker (pid:39) exited with code 1
+[2023-11-30 05:06:05 +0000] [10] [ERROR] Worker (pid:39) exited with code 1.
+[2023-11-30 05:06:05 +0000] [10] [ERROR] Worker (pid:33) was sent SIGKILL! Perhaps out of memory?
+[2023-11-30 06:04:42 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:40)
+[2023-11-30 06:04:42 +0000] [10] [ERROR] Worker (pid:40) exited with code 1
+[2023-11-30 06:04:42 +0000] [10] [ERROR] Worker (pid:40) exited with code 1.
+[2023-11-30 06:19:23 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:43)
+[2023-11-30 06:19:23 +0000] [10] [ERROR] Worker (pid:43) exited with code 1
+[2023-11-30 06:19:23 +0000] [10] [ERROR] Worker (pid:43) exited with code 1.
+[2023-11-30 06:58:46 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:41)
+[2023-11-30 06:58:46 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:42)
+[2023-11-30 06:58:46 +0000] [10] [ERROR] Worker (pid:41) exited with code 1
+[2023-11-30 06:58:46 +0000] [10] [ERROR] Worker (pid:41) exited with code 1.
+[2023-11-30 06:58:46 +0000] [10] [ERROR] Worker (pid:42) exited with code 1
+[2023-11-30 06:58:46 +0000] [10] [ERROR] Worker (pid:42) exited with code 1.
+[2023-11-30 08:05:17 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:46)
+[2023-11-30 08:05:17 +0000] [10] [ERROR] Worker (pid:46) exited with code 1
+[2023-11-30 08:05:17 +0000] [10] [ERROR] Worker (pid:46) exited with code 1.
+[2023-11-30 09:23:12 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:45)
+[2023-11-30 09:23:13 +0000] [10] [ERROR] Worker (pid:45) exited with code 1
+[2023-11-30 09:23:13 +0000] [10] [ERROR] Worker (pid:45) exited with code 1.
+[2023-11-30 10:31:12 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:44)
+[2023-11-30 10:31:12 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:47)
+[2023-11-30 10:31:12 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:48)
+[2023-11-30 10:31:12 +0000] [10] [ERROR] Worker (pid:47) exited with code 1
+[2023-11-30 10:31:12 +0000] [10] [ERROR] Worker (pid:47) exited with code 1.
+[2023-11-30 10:31:12 +0000] [10] [ERROR] Worker (pid:44) exited with code 1
+[2023-11-30 10:31:12 +0000] [10] [ERROR] Worker (pid:44) exited with code 1.
+[2023-11-30 11:21:37 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:50)
+[2023-11-30 11:21:37 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:51)
+[2023-11-30 11:21:37 +0000] [10] [ERROR] Worker (pid:50) exited with code 1
+[2023-11-30 11:21:37 +0000] [10] [ERROR] Worker (pid:50) exited with code 1.
+[2023-11-30 11:21:37 +0000] [10] [ERROR] Worker (pid:51) exited with code 1
+[2023-11-30 11:21:37 +0000] [10] [ERROR] Worker (pid:51) exited with code 1.
+[2023-11-30 12:48:09 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:11)
+[2023-11-30 12:48:09 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:12)
+[2023-11-30 12:48:09 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:13)
+[2023-11-30 12:48:09 +0000] [10] [ERROR] Worker (pid:12) exited with code 1
+[2023-11-30 12:48:09 +0000] [10] [ERROR] Worker (pid:12) exited with code 1.
+[2023-11-30 12:48:09 +0000] [10] [ERROR] Worker (pid:11) exited with code 1
+[2023-11-30 12:48:09 +0000] [10] [ERROR] Worker (pid:11) exited with code 1.
+[2023-11-30 12:48:09 +0000] [10] [ERROR] Worker (pid:13) was sent SIGKILL! Perhaps out of memory?
+[2023-11-30 12:49:43 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:14)
+[2023-11-30 12:49:43 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:15)
+[2023-11-30 12:49:43 +0000] [10] [ERROR] Worker (pid:14) exited with code 1
+[2023-11-30 12:49:43 +0000] [10] [ERROR] Worker (pid:14) exited with code 1.
+[2023-11-30 12:49:43 +0000] [10] [ERROR] Worker (pid:15) exited with code 1
+[2023-11-30 12:49:43 +0000] [10] [ERROR] Worker (pid:15) exited with code 1.
+[2023-11-30 13:35:27 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:10)
+[2023-11-30 13:35:27 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:12)
+[2023-11-30 13:35:27 +0000] [9] [ERROR] Worker (pid:12) exited with code 1
+[2023-11-30 13:35:27 +0000] [9] [ERROR] Worker (pid:12) exited with code 1.
+[2023-11-30 13:35:27 +0000] [9] [ERROR] Worker (pid:10) exited with code 1
+[2023-11-30 13:35:27 +0000] [9] [ERROR] Worker (pid:10) exited with code 1.
+[2023-11-30 13:41:57 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:14)
+[2023-11-30 13:41:57 +0000] [9] [ERROR] Worker (pid:14) exited with code 1
+[2023-11-30 13:41:57 +0000] [9] [ERROR] Worker (pid:14) exited with code 1.
+[2023-11-30 14:26:18 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:15)
+[2023-11-30 14:26:18 +0000] [9] [ERROR] Worker (pid:15) exited with code 1
+[2023-11-30 14:26:18 +0000] [9] [ERROR] Worker (pid:15) exited with code 1.
+[2023-11-30 14:42:13 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:11)
+[2023-11-30 14:42:13 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:13)
+[2023-11-30 14:42:13 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:16)
+[2023-11-30 14:42:13 +0000] [9] [ERROR] Worker (pid:13) exited with code 1
+[2023-11-30 14:42:13 +0000] [9] [ERROR] Worker (pid:13) exited with code 1.
+[2023-11-30 14:42:13 +0000] [9] [ERROR] Worker (pid:16) was sent SIGKILL! Perhaps out of memory?
+[2023-11-30 14:42:13 +0000] [9] [ERROR] Worker (pid:11) was sent SIGKILL! Perhaps out of memory?
+[2023-11-30 16:38:59 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:17)
+[2023-11-30 16:39:00 +0000] [9] [ERROR] Worker (pid:17) exited with code 1
+[2023-11-30 16:39:00 +0000] [9] [ERROR] Worker (pid:17) exited with code 1.
+[2023-11-30 18:00:48 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:18)
+[2023-11-30 18:00:48 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:20)
+[2023-11-30 18:00:48 +0000] [9] [ERROR] Worker (pid:20) exited with code 1
+[2023-11-30 18:00:48 +0000] [9] [ERROR] Worker (pid:20) exited with code 1.
+[2023-11-30 18:00:48 +0000] [9] [ERROR] Worker (pid:18) exited with code 1
+[2023-11-30 18:00:48 +0000] [9] [ERROR] Worker (pid:18) exited with code 1.
+[2023-11-30 19:09:54 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:21)
+[2023-11-30 19:09:54 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:22)
+[2023-11-30 19:09:54 +0000] [9] [ERROR] Worker (pid:21) exited with code 1
+[2023-11-30 19:09:54 +0000] [9] [ERROR] Worker (pid:21) exited with code 1.
+[2023-11-30 19:09:54 +0000] [9] [ERROR] Worker (pid:22) exited with code 1
+[2023-11-30 19:09:54 +0000] [9] [ERROR] Worker (pid:22) exited with code 1.
+[2023-11-30 20:15:58 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:23)
+[2023-11-30 20:15:58 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:24)
+[2023-11-30 20:15:59 +0000] [9] [ERROR] Worker (pid:24) exited with code 1
+[2023-11-30 20:15:59 +0000] [9] [ERROR] Worker (pid:24) exited with code 1.
+[2023-11-30 21:15:51 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:19)
+[2023-11-30 21:15:51 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:25)
+[2023-11-30 21:15:51 +0000] [9] [ERROR] Worker (pid:25) exited with code 1
+[2023-11-30 21:15:51 +0000] [9] [ERROR] Worker (pid:25) exited with code 1.
+[2023-11-30 21:15:51 +0000] [9] [ERROR] Worker (pid:19) exited with code 1
+[2023-11-30 21:15:51 +0000] [9] [ERROR] Worker (pid:19) exited with code 1.
+[2023-11-30 22:35:37 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:27)
+[2023-11-30 22:35:37 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:28)
+[2023-11-30 22:35:37 +0000] [9] [ERROR] Worker (pid:27) exited with code 1
+[2023-11-30 22:35:37 +0000] [9] [ERROR] Worker (pid:27) exited with code 1.
+[2023-11-30 22:35:37 +0000] [9] [ERROR] Worker (pid:28) exited with code 1
+[2023-11-30 22:35:37 +0000] [9] [ERROR] Worker (pid:28) exited with code 1.
+[2023-11-30 23:42:22 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:29)
+[2023-11-30 23:42:22 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:30)
+[2023-11-30 23:42:22 +0000] [9] [ERROR] Worker (pid:30) exited with code 1
+[2023-11-30 23:42:22 +0000] [9] [ERROR] Worker (pid:30) exited with code 1.
+[2023-11-30 23:42:22 +0000] [9] [ERROR] Worker (pid:29) exited with code 1
+[2023-11-30 23:42:22 +0000] [9] [ERROR] Worker (pid:29) exited with code 1.
+[2023-12-01 00:48:57 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:26)
+[2023-12-01 00:48:57 +0000] [9] [ERROR] Worker (pid:26) exited with code 1
+[2023-12-01 00:48:57 +0000] [9] [ERROR] Worker (pid:26) exited with code 1.
+[2023-12-01 01:25:33 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:33)
+[2023-12-01 01:25:33 +0000] [9] [ERROR] Worker (pid:33) exited with code 1
+[2023-12-01 01:25:33 +0000] [9] [ERROR] Worker (pid:33) exited with code 1.
+[2023-12-01 01:30:02 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:31)
+[2023-12-01 01:30:02 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:32)
+[2023-12-01 01:30:02 +0000] [9] [ERROR] Worker (pid:32) exited with code 1
+[2023-12-01 01:30:02 +0000] [9] [ERROR] Worker (pid:32) exited with code 1.
+[2023-12-01 01:30:02 +0000] [9] [ERROR] Worker (pid:31) was sent SIGKILL! Perhaps out of memory?
+[2023-12-01 01:32:32 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:36)
+[2023-12-01 01:32:32 +0000] [9] [ERROR] Worker (pid:36) exited with code 1
+[2023-12-01 01:32:32 +0000] [9] [ERROR] Worker (pid:36) exited with code 1.
+[2023-12-01 02:15:37 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:35)
+[2023-12-01 02:15:37 +0000] [9] [ERROR] Worker (pid:35) exited with code 1
+[2023-12-01 02:15:37 +0000] [9] [ERROR] Worker (pid:35) exited with code 1.
+[2023-12-01 02:55:42 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:34)
+[2023-12-01 02:55:42 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:38)
+[2023-12-01 02:55:42 +0000] [9] [ERROR] Worker (pid:34) exited with code 1
+[2023-12-01 02:55:42 +0000] [9] [ERROR] Worker (pid:34) exited with code 1.
+[2023-12-01 02:55:42 +0000] [9] [ERROR] Worker (pid:38) exited with code 1
+[2023-12-01 02:55:42 +0000] [9] [ERROR] Worker (pid:38) exited with code 1.
+[2023-12-01 03:51:58 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:39)
+[2023-12-01 03:51:58 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:40)
+[2023-12-01 03:51:58 +0000] [9] [ERROR] Worker (pid:39) exited with code 1
+[2023-12-01 03:51:58 +0000] [9] [ERROR] Worker (pid:39) exited with code 1.
+[2023-12-01 03:51:58 +0000] [9] [ERROR] Worker (pid:40) exited with code 1
+[2023-12-01 03:51:58 +0000] [9] [ERROR] Worker (pid:40) exited with code 1.
+[2023-12-01 04:41:12 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:37)
+[2023-12-01 04:41:12 +0000] [9] [ERROR] Worker (pid:37) exited with code 1
+[2023-12-01 04:41:12 +0000] [9] [ERROR] Worker (pid:37) exited with code 1.
+[2023-12-01 05:45:08 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:43)
+[2023-12-01 05:45:08 +0000] [9] [ERROR] Worker (pid:43) exited with code 1
+[2023-12-01 05:45:08 +0000] [9] [ERROR] Worker (pid:43) exited with code 1.
+[2023-12-01 06:48:47 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:44)
+[2023-12-01 06:48:47 +0000] [9] [ERROR] Worker (pid:44) exited with code 1
+[2023-12-01 06:48:47 +0000] [9] [ERROR] Worker (pid:44) exited with code 1.
+[2023-12-01 08:43:00 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:45)
+[2023-12-01 08:43:00 +0000] [9] [ERROR] Worker (pid:45) exited with code 1
+[2023-12-01 08:43:00 +0000] [9] [ERROR] Worker (pid:45) exited with code 1.
+[2023-12-01 09:47:54 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:41)
+[2023-12-01 09:47:54 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:42)
+[2023-12-01 09:47:54 +0000] [9] [ERROR] Worker (pid:42) exited with code 1
+[2023-12-01 09:47:54 +0000] [9] [ERROR] Worker (pid:42) exited with code 1.
+[2023-12-01 09:47:54 +0000] [9] [ERROR] Worker (pid:41) exited with code 1
+[2023-12-01 09:47:54 +0000] [9] [ERROR] Worker (pid:41) exited with code 1.
+[2023-12-01 10:46:06 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:48)
+[2023-12-01 10:46:06 +0000] [9] [ERROR] Worker (pid:48) exited with code 1
+[2023-12-01 10:46:06 +0000] [9] [ERROR] Worker (pid:48) exited with code 1.
+[2023-12-01 10:58:50 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:46)
+[2023-12-01 10:58:50 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:47)
+[2023-12-01 10:58:50 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:49)
+[2023-12-01 10:58:50 +0000] [9] [ERROR] Worker (pid:47) exited with code 1
+[2023-12-01 10:58:50 +0000] [9] [ERROR] Worker (pid:47) exited with code 1.
+[2023-12-01 10:58:50 +0000] [9] [ERROR] Worker (pid:49) exited with code 1
+[2023-12-01 10:58:50 +0000] [9] [ERROR] Worker (pid:49) exited with code 1.
+[2023-12-01 12:13:22 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:51)
+[2023-12-01 12:13:22 +0000] [9] [ERROR] Worker (pid:51) exited with code 1
+[2023-12-01 12:13:22 +0000] [9] [ERROR] Worker (pid:51) exited with code 1.
+[2023-12-01 12:35:07 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:11)
+[2023-12-01 12:35:07 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:12)
+[2023-12-01 12:35:07 +0000] [10] [ERROR] Worker (pid:12) exited with code 1
+[2023-12-01 12:35:07 +0000] [10] [ERROR] Worker (pid:12) exited with code 1.
+[2023-12-01 12:35:07 +0000] [10] [ERROR] Worker (pid:11) exited with code 1
+[2023-12-01 12:35:07 +0000] [10] [ERROR] Worker (pid:11) exited with code 1.
+[2023-12-01 13:45:32 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:12)
+[2023-12-01 13:45:32 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:13)
+[2023-12-01 13:45:32 +0000] [10] [ERROR] Worker (pid:12) exited with code 1
+[2023-12-01 13:45:32 +0000] [10] [ERROR] Worker (pid:12) exited with code 1.
+[2023-12-01 13:45:32 +0000] [10] [ERROR] Worker (pid:13) exited with code 1
+[2023-12-01 13:45:32 +0000] [10] [ERROR] Worker (pid:13) exited with code 1.
+[2023-12-01 14:14:10 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:14)
+[2023-12-01 14:14:10 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:15)
+[2023-12-01 14:14:10 +0000] [10] [ERROR] Worker (pid:14) exited with code 1
+[2023-12-01 14:14:10 +0000] [10] [ERROR] Worker (pid:14) exited with code 1.
+[2023-12-01 14:14:10 +0000] [10] [ERROR] Worker (pid:15) exited with code 1
+[2023-12-01 14:14:10 +0000] [10] [ERROR] Worker (pid:15) exited with code 1.
+[2023-12-01 14:46:55 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:16)
+[2023-12-01 14:46:55 +0000] [10] [ERROR] Worker (pid:16) exited with code 1
+[2023-12-01 14:46:55 +0000] [10] [ERROR] Worker (pid:16) exited with code 1.
+[2023-12-01 15:54:22 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:11)
+[2023-12-01 15:54:22 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:18)
+[2023-12-01 15:54:22 +0000] [10] [ERROR] Worker (pid:11) exited with code 1
+[2023-12-01 15:54:22 +0000] [10] [ERROR] Worker (pid:11) exited with code 1.
+[2023-12-01 15:54:22 +0000] [10] [ERROR] Worker (pid:18) exited with code 1
+[2023-12-01 15:54:22 +0000] [10] [ERROR] Worker (pid:18) exited with code 1.
+[2023-12-01 17:01:05 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:19)
+[2023-12-01 17:01:05 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:20)
+[2023-12-01 17:01:05 +0000] [10] [ERROR] Worker (pid:19) exited with code 1
+[2023-12-01 17:01:05 +0000] [10] [ERROR] Worker (pid:19) exited with code 1.
+[2023-12-01 17:01:05 +0000] [10] [ERROR] Worker (pid:20) exited with code 1
+[2023-12-01 17:01:05 +0000] [10] [ERROR] Worker (pid:20) exited with code 1.
+[2023-12-01 18:08:37 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:17)
+[2023-12-01 18:08:37 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:21)
+[2023-12-01 18:08:38 +0000] [10] [ERROR] Worker (pid:21) exited with code 1
+[2023-12-01 18:08:38 +0000] [10] [ERROR] Worker (pid:21) exited with code 1.
+[2023-12-01 18:08:38 +0000] [10] [ERROR] Worker (pid:17) was sent SIGKILL! Perhaps out of memory?
+[2023-12-01 19:14:35 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:23)
+[2023-12-01 19:14:35 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:24)
+[2023-12-01 19:14:35 +0000] [10] [ERROR] Worker (pid:23) exited with code 1
+[2023-12-01 19:14:35 +0000] [10] [ERROR] Worker (pid:23) exited with code 1.
+[2023-12-01 19:14:35 +0000] [10] [ERROR] Worker (pid:24) exited with code 1
+[2023-12-01 19:14:35 +0000] [10] [ERROR] Worker (pid:24) exited with code 1.
+[2023-12-01 20:37:32 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:22)
+[2023-12-01 20:37:32 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:25)
+[2023-12-01 20:37:32 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:26)
+[2023-12-01 20:37:32 +0000] [10] [ERROR] Worker (pid:25) exited with code 1
+[2023-12-01 20:37:32 +0000] [10] [ERROR] Worker (pid:25) exited with code 1.
+[2023-12-01 20:37:32 +0000] [10] [ERROR] Worker (pid:26) exited with code 1
+[2023-12-01 20:37:32 +0000] [10] [ERROR] Worker (pid:26) exited with code 1.
+[2023-12-01 20:37:32 +0000] [10] [ERROR] Worker (pid:22) was sent SIGKILL! Perhaps out of memory?
+[2023-12-01 21:31:50 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:29)
+[2023-12-01 21:31:51 +0000] [10] [ERROR] Worker (pid:29) exited with code 1
+[2023-12-01 21:31:51 +0000] [10] [ERROR] Worker (pid:29) exited with code 1.
+[2023-12-01 22:37:00 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:30)
+[2023-12-01 22:37:00 +0000] [10] [ERROR] Worker (pid:30) exited with code 1
+[2023-12-01 22:37:00 +0000] [10] [ERROR] Worker (pid:30) exited with code 1.
+[2023-12-02 02:10:35 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:27)
+[2023-12-02 02:10:35 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:28)
+[2023-12-02 02:10:35 +0000] [10] [ERROR] Worker (pid:27) exited with code 1
+[2023-12-02 02:10:35 +0000] [10] [ERROR] Worker (pid:27) exited with code 1.
+[2023-12-02 02:10:35 +0000] [10] [ERROR] Worker (pid:28) exited with code 1
+[2023-12-02 02:10:35 +0000] [10] [ERROR] Worker (pid:28) exited with code 1.
+[2023-12-02 03:15:35 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:32)
+[2023-12-02 03:15:35 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:33)
+[2023-12-02 03:15:35 +0000] [10] [ERROR] Worker (pid:33) exited with code 1
+[2023-12-02 03:15:35 +0000] [10] [ERROR] Worker (pid:33) exited with code 1.
+[2023-12-02 04:21:28 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:34)
+[2023-12-02 04:21:28 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:35)
+[2023-12-02 04:21:28 +0000] [10] [ERROR] Worker (pid:35) exited with code 1
+[2023-12-02 04:21:28 +0000] [10] [ERROR] Worker (pid:35) exited with code 1.
+[2023-12-02 04:21:28 +0000] [10] [ERROR] Worker (pid:34) exited with code 1
+[2023-12-02 04:21:28 +0000] [10] [ERROR] Worker (pid:34) exited with code 1.
+[2023-12-02 05:44:35 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:31)
+[2023-12-02 05:44:35 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:37)
+[2023-12-02 05:44:35 +0000] [10] [ERROR] Worker (pid:37) exited with code 1
+[2023-12-02 05:44:35 +0000] [10] [ERROR] Worker (pid:37) exited with code 1.
+[2023-12-02 05:44:35 +0000] [10] [ERROR] Worker (pid:31) was sent SIGKILL! Perhaps out of memory?
+[2023-12-02 06:48:20 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:38)
+[2023-12-02 06:48:20 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:39)
+[2023-12-02 06:48:20 +0000] [10] [ERROR] Worker (pid:39) exited with code 1
+[2023-12-02 06:48:20 +0000] [10] [ERROR] Worker (pid:39) exited with code 1.
+[2023-12-02 06:48:20 +0000] [10] [ERROR] Worker (pid:38) exited with code 1
+[2023-12-02 06:48:20 +0000] [10] [ERROR] Worker (pid:38) exited with code 1.
+[2023-12-02 07:55:02 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:36)
+[2023-12-02 07:55:02 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:40)
+[2023-12-02 07:55:02 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:41)
+[2023-12-02 07:55:02 +0000] [10] [ERROR] Worker (pid:41) exited with code 1
+[2023-12-02 07:55:02 +0000] [10] [ERROR] Worker (pid:41) exited with code 1.
+[2023-12-02 07:55:02 +0000] [10] [ERROR] Worker (pid:40) exited with code 1
+[2023-12-02 07:55:02 +0000] [10] [ERROR] Worker (pid:40) exited with code 1.
+[2023-12-02 07:55:02 +0000] [10] [ERROR] Worker (pid:36) was sent SIGKILL! Perhaps out of memory?
+[2023-12-02 09:16:11 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:42)
+[2023-12-02 09:16:11 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:43)
+[2023-12-02 09:16:11 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:44)
+[2023-12-02 09:16:11 +0000] [10] [ERROR] Worker (pid:42) exited with code 1
+[2023-12-02 09:16:11 +0000] [10] [ERROR] Worker (pid:42) exited with code 1.
+[2023-12-02 09:16:11 +0000] [10] [ERROR] Worker (pid:43) exited with code 1
+[2023-12-02 09:16:11 +0000] [10] [ERROR] Worker (pid:43) exited with code 1.
+[2023-12-02 10:00:28 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:46)
+[2023-12-02 10:00:28 +0000] [10] [ERROR] Worker (pid:46) exited with code 1
+[2023-12-02 10:00:28 +0000] [10] [ERROR] Worker (pid:46) exited with code 1.
+[2023-12-02 10:11:16 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:48)
+[2023-12-02 10:11:17 +0000] [10] [ERROR] Worker (pid:48) exited with code 1
+[2023-12-02 10:11:17 +0000] [10] [ERROR] Worker (pid:48) exited with code 1.
+[2023-12-02 11:17:29 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:49)
+[2023-12-02 11:17:29 +0000] [10] [ERROR] Worker (pid:49) exited with code 1
+[2023-12-02 11:17:29 +0000] [10] [ERROR] Worker (pid:49) exited with code 1.
+[2023-12-02 13:26:15 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:45)
+[2023-12-02 13:26:15 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:47)
+[2023-12-02 13:26:15 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:50)
+[2023-12-02 13:26:15 +0000] [10] [ERROR] Worker (pid:50) exited with code 1
+[2023-12-02 13:26:15 +0000] [10] [ERROR] Worker (pid:50) exited with code 1.
+[2023-12-02 13:26:15 +0000] [10] [ERROR] Worker (pid:47) exited with code 1
+[2023-12-02 13:26:15 +0000] [10] [ERROR] Worker (pid:47) exited with code 1.
+[2023-12-02 13:26:15 +0000] [10] [ERROR] Worker (pid:45) exited with code 1
+[2023-12-02 13:26:15 +0000] [10] [ERROR] Worker (pid:45) exited with code 1.
+[2023-12-02 14:31:16 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:51)
+[2023-12-02 14:31:16 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:52)
+[2023-12-02 14:31:16 +0000] [10] [ERROR] Worker (pid:51) exited with code 1
+[2023-12-02 14:31:16 +0000] [10] [ERROR] Worker (pid:51) exited with code 1.
+[2023-12-02 14:31:16 +0000] [10] [ERROR] Worker (pid:52) exited with code 1
+[2023-12-02 14:31:16 +0000] [10] [ERROR] Worker (pid:52) exited with code 1.
+[2023-12-02 15:38:04 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:53)
+[2023-12-02 15:38:04 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:55)
+[2023-12-02 15:38:04 +0000] [10] [ERROR] Worker (pid:53) exited with code 1
+[2023-12-02 15:38:04 +0000] [10] [ERROR] Worker (pid:53) exited with code 1.
+[2023-12-02 15:38:04 +0000] [10] [ERROR] Worker (pid:55) exited with code 1
+[2023-12-02 15:38:04 +0000] [10] [ERROR] Worker (pid:55) exited with code 1.
+[2023-12-02 15:59:57 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:56)
+[2023-12-02 15:59:57 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:57)
+[2023-12-02 15:59:57 +0000] [10] [ERROR] Worker (pid:56) exited with code 1
+[2023-12-02 15:59:57 +0000] [10] [ERROR] Worker (pid:56) exited with code 1.
+[2023-12-02 15:59:57 +0000] [10] [ERROR] Worker (pid:57) exited with code 1
+[2023-12-02 15:59:57 +0000] [10] [ERROR] Worker (pid:57) exited with code 1.
+[2023-12-02 16:10:46 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:58)
+[2023-12-02 16:10:46 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:59)
+[2023-12-02 16:10:46 +0000] [10] [ERROR] Worker (pid:59) exited with code 1
+[2023-12-02 16:10:46 +0000] [10] [ERROR] Worker (pid:59) exited with code 1.
+[2023-12-02 16:10:46 +0000] [10] [ERROR] Worker (pid:58) exited with code 1
+[2023-12-02 16:10:46 +0000] [10] [ERROR] Worker (pid:58) exited with code 1.
+[2023-12-02 16:21:35 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:54)
+[2023-12-02 16:21:35 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:61)
+[2023-12-02 16:21:36 +0000] [10] [ERROR] Worker (pid:61) exited with code 1
+[2023-12-02 16:21:36 +0000] [10] [ERROR] Worker (pid:61) exited with code 1.
+[2023-12-02 16:21:36 +0000] [10] [ERROR] Worker (pid:54) was sent SIGKILL! Perhaps out of memory?
+[2023-12-02 16:37:24 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:62)
+[2023-12-02 16:37:24 +0000] [10] [ERROR] Worker (pid:62) exited with code 1
+[2023-12-02 16:37:24 +0000] [10] [ERROR] Worker (pid:62) exited with code 1.
+[2023-12-02 19:03:20 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:60)
+[2023-12-02 19:03:20 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:63)
+[2023-12-02 19:03:20 +0000] [10] [ERROR] Worker (pid:60) exited with code 1
+[2023-12-02 19:03:20 +0000] [10] [ERROR] Worker (pid:60) exited with code 1.
+[2023-12-02 19:03:20 +0000] [10] [ERROR] Worker (pid:63) exited with code 1
+[2023-12-02 19:03:20 +0000] [10] [ERROR] Worker (pid:63) exited with code 1.
+[2023-12-02 20:09:42 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:66)
+[2023-12-02 20:09:42 +0000] [10] [ERROR] Worker (pid:66) exited with code 1
+[2023-12-02 20:09:42 +0000] [10] [ERROR] Worker (pid:66) exited with code 1.
+[2023-12-02 23:29:51 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:64)
+[2023-12-02 23:29:51 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:67)
+[2023-12-02 23:29:51 +0000] [10] [ERROR] Worker (pid:64) exited with code 1
+[2023-12-02 23:29:51 +0000] [10] [ERROR] Worker (pid:67) exited with code 1
+[2023-12-02 23:29:51 +0000] [10] [ERROR] Worker (pid:67) exited with code 1.
+[2023-12-02 23:29:51 +0000] [10] [ERROR] Worker (pid:64) exited with code 1.
+[2023-12-03 00:38:16 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:68)
+[2023-12-03 00:38:16 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:69)
+[2023-12-03 00:38:16 +0000] [10] [ERROR] Worker (pid:68) exited with code 1
+[2023-12-03 00:38:16 +0000] [10] [ERROR] Worker (pid:68) exited with code 1.
+[2023-12-03 00:38:16 +0000] [10] [ERROR] Worker (pid:69) exited with code 1
+[2023-12-03 00:38:16 +0000] [10] [ERROR] Worker (pid:69) exited with code 1.
+[2023-12-03 00:56:06 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:71)
+[2023-12-03 00:56:06 +0000] [10] [ERROR] Worker (pid:71) exited with code 1
+[2023-12-03 00:56:06 +0000] [10] [ERROR] Worker (pid:71) exited with code 1.
+[2023-12-03 01:03:33 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:65)
+[2023-12-03 01:03:33 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:72)
+[2023-12-03 01:03:33 +0000] [10] [ERROR] Worker (pid:72) exited with code 1
+[2023-12-03 01:03:33 +0000] [10] [ERROR] Worker (pid:72) exited with code 1.
+[2023-12-03 01:03:33 +0000] [10] [ERROR] Worker (pid:65) was sent SIGKILL! Perhaps out of memory?
+[2023-12-03 01:28:16 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:73)
+[2023-12-03 01:28:16 +0000] [10] [ERROR] Worker (pid:73) exited with code 1
+[2023-12-03 01:28:16 +0000] [10] [ERROR] Worker (pid:73) exited with code 1.
+[2023-12-03 02:01:22 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:70)
+[2023-12-03 02:01:22 +0000] [10] [ERROR] Worker (pid:70) exited with code 1
+[2023-12-03 02:01:22 +0000] [10] [ERROR] Worker (pid:70) exited with code 1.
+[2023-12-03 03:23:09 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:76)
+[2023-12-03 03:23:09 +0000] [10] [ERROR] Worker (pid:76) exited with code 1
+[2023-12-03 03:23:09 +0000] [10] [ERROR] Worker (pid:76) exited with code 1.
+[2023-12-03 04:28:36 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:77)
+[2023-12-03 04:28:36 +0000] [10] [ERROR] Worker (pid:77) exited with code 1
+[2023-12-03 04:28:36 +0000] [10] [ERROR] Worker (pid:77) exited with code 1.
+[2023-12-03 06:39:14 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:74)
+[2023-12-03 06:39:14 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:75)
+[2023-12-03 06:39:14 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:78)
+[2023-12-03 06:39:15 +0000] [10] [ERROR] Worker (pid:78) exited with code 1
+[2023-12-03 06:39:15 +0000] [10] [ERROR] Worker (pid:78) exited with code 1.
+[2023-12-03 06:39:15 +0000] [10] [ERROR] Worker (pid:75) was sent SIGKILL! Perhaps out of memory?
+[2023-12-03 06:39:15 +0000] [10] [ERROR] Worker (pid:74) was sent SIGKILL! Perhaps out of memory?
+[2023-12-03 08:03:32 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:80)
+[2023-12-03 08:03:32 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:81)
+[2023-12-03 08:03:32 +0000] [10] [ERROR] Worker (pid:80) exited with code 1
+[2023-12-03 08:03:32 +0000] [10] [ERROR] Worker (pid:80) exited with code 1.
+[2023-12-03 08:03:32 +0000] [10] [ERROR] Worker (pid:81) exited with code 1
+[2023-12-03 08:03:32 +0000] [10] [ERROR] Worker (pid:81) exited with code 1.
+[2023-12-03 09:09:33 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:83)
+[2023-12-03 09:09:33 +0000] [10] [ERROR] Worker (pid:83) exited with code 1
+[2023-12-03 09:09:33 +0000] [10] [ERROR] Worker (pid:83) exited with code 1.
+[2023-12-03 10:00:24 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:79)
+[2023-12-03 10:00:24 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:82)
+[2023-12-03 10:00:24 +0000] [10] [ERROR] Worker (pid:79) exited with code 1
+[2023-12-03 10:00:24 +0000] [10] [ERROR] Worker (pid:79) exited with code 1.
+[2023-12-03 10:00:24 +0000] [10] [ERROR] Worker (pid:82) exited with code 1
+[2023-12-03 10:00:24 +0000] [10] [ERROR] Worker (pid:82) exited with code 1.
+[2023-12-03 10:07:52 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:85)
+[2023-12-03 10:07:52 +0000] [10] [ERROR] Worker (pid:85) exited with code 1
+[2023-12-03 10:07:52 +0000] [10] [ERROR] Worker (pid:85) exited with code 1.
+[2023-12-03 11:13:20 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:84)
+[2023-12-03 11:13:20 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:86)
+[2023-12-03 11:13:21 +0000] [10] [ERROR] Worker (pid:86) exited with code 1
+[2023-12-03 11:13:21 +0000] [10] [ERROR] Worker (pid:86) exited with code 1.
+[2023-12-03 11:13:21 +0000] [10] [ERROR] Worker (pid:84) exited with code 1
+[2023-12-03 11:13:21 +0000] [10] [ERROR] Worker (pid:84) exited with code 1.
+[2023-12-03 12:16:32 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:88)
+[2023-12-03 12:16:32 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:89)
+[2023-12-03 12:16:32 +0000] [10] [ERROR] Worker (pid:88) exited with code 1
+[2023-12-03 12:16:32 +0000] [10] [ERROR] Worker (pid:88) exited with code 1.
+[2023-12-03 12:16:32 +0000] [10] [ERROR] Worker (pid:89) exited with code 1
+[2023-12-03 12:16:32 +0000] [10] [ERROR] Worker (pid:89) exited with code 1.
+[2023-12-03 13:19:41 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:87)
+[2023-12-03 13:19:41 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:90)
+[2023-12-03 13:19:41 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:91)
+[2023-12-03 13:19:41 +0000] [10] [ERROR] Worker (pid:91) exited with code 1
+[2023-12-03 13:19:41 +0000] [10] [ERROR] Worker (pid:91) exited with code 1.
+[2023-12-03 13:19:41 +0000] [10] [ERROR] Worker (pid:90) exited with code 1
+[2023-12-03 13:19:41 +0000] [10] [ERROR] Worker (pid:90) exited with code 1.
+[2023-12-03 13:19:41 +0000] [10] [ERROR] Worker (pid:87) was sent SIGKILL! Perhaps out of memory?
+[2023-12-03 15:42:52 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:93)
+[2023-12-03 15:42:52 +0000] [10] [ERROR] Worker (pid:93) exited with code 1
+[2023-12-03 15:42:52 +0000] [10] [ERROR] Worker (pid:93) exited with code 1.
+[2023-12-03 16:41:33 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:95)
+[2023-12-03 16:41:33 +0000] [10] [ERROR] Worker (pid:95) exited with code 1
+[2023-12-03 16:41:33 +0000] [10] [ERROR] Worker (pid:95) exited with code 1.
+[2023-12-03 19:00:08 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:92)
+[2023-12-03 19:00:08 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:94)
+[2023-12-03 19:00:09 +0000] [10] [ERROR] Worker (pid:92) exited with code 1
+[2023-12-03 19:00:09 +0000] [10] [ERROR] Worker (pid:92) exited with code 1.
+[2023-12-03 19:00:09 +0000] [10] [ERROR] Worker (pid:94) exited with code 1
+[2023-12-03 19:00:09 +0000] [10] [ERROR] Worker (pid:94) exited with code 1.
+[2023-12-03 20:08:55 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:97)
+[2023-12-03 20:08:55 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:98)
+[2023-12-03 20:08:55 +0000] [10] [ERROR] Worker (pid:98) exited with code 1
+[2023-12-03 20:08:55 +0000] [10] [ERROR] Worker (pid:98) exited with code 1.
+[2023-12-03 20:08:55 +0000] [10] [ERROR] Worker (pid:97) exited with code 1
+[2023-12-03 20:08:55 +0000] [10] [ERROR] Worker (pid:97) exited with code 1.
+[2023-12-03 21:31:49 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:99)
+[2023-12-03 21:31:49 +0000] [10] [ERROR] Worker (pid:99) exited with code 1
+[2023-12-03 21:31:49 +0000] [10] [ERROR] Worker (pid:99) exited with code 1.
+[2023-12-03 22:31:52 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:96)
+[2023-12-03 22:31:52 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:100)
+[2023-12-03 22:31:52 +0000] [10] [ERROR] Worker (pid:100) exited with code 1
+[2023-12-03 22:31:52 +0000] [10] [ERROR] Worker (pid:100) exited with code 1.
+[2023-12-03 22:31:52 +0000] [10] [ERROR] Worker (pid:96) exited with code 1
+[2023-12-03 22:31:52 +0000] [10] [ERROR] Worker (pid:96) exited with code 1.
+[2023-12-03 23:35:06 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:102)
+[2023-12-03 23:35:06 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:103)
+[2023-12-03 23:35:06 +0000] [10] [ERROR] Worker (pid:103) exited with code 1
+[2023-12-03 23:35:06 +0000] [10] [ERROR] Worker (pid:103) exited with code 1.
+[2023-12-04 00:32:54 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:101)
+[2023-12-04 00:32:54 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:104)
+[2023-12-04 00:32:54 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:105)
+[2023-12-04 00:32:55 +0000] [10] [ERROR] Worker (pid:104) exited with code 1
+[2023-12-04 00:32:55 +0000] [10] [ERROR] Worker (pid:104) exited with code 1.
+[2023-12-04 00:32:55 +0000] [10] [ERROR] Worker (pid:105) exited with code 1
+[2023-12-04 00:32:55 +0000] [10] [ERROR] Worker (pid:105) exited with code 1.
+[2023-12-04 00:32:55 +0000] [10] [ERROR] Worker (pid:101) was sent SIGKILL! Perhaps out of memory?
+[2023-12-04 01:19:53 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:108)
+[2023-12-04 01:19:53 +0000] [10] [ERROR] Worker (pid:108) exited with code 1
+[2023-12-04 01:19:53 +0000] [10] [ERROR] Worker (pid:108) exited with code 1.
+[2023-12-04 01:38:23 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:109)
+[2023-12-04 01:38:23 +0000] [10] [ERROR] Worker (pid:109) exited with code 1
+[2023-12-04 01:38:23 +0000] [10] [ERROR] Worker (pid:109) exited with code 1.
+[2023-12-04 01:55:18 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:110)
+[2023-12-04 01:55:18 +0000] [10] [ERROR] Worker (pid:110) exited with code 1
+[2023-12-04 01:55:18 +0000] [10] [ERROR] Worker (pid:110) exited with code 1.
+[2023-12-04 04:27:41 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:106)
+[2023-12-04 04:27:41 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:107)
+[2023-12-04 04:27:42 +0000] [10] [ERROR] Worker (pid:106) exited with code 1
+[2023-12-04 04:27:42 +0000] [10] [ERROR] Worker (pid:106) exited with code 1.
+[2023-12-04 04:27:42 +0000] [10] [ERROR] Worker (pid:107) exited with code 1
+[2023-12-04 04:27:42 +0000] [10] [ERROR] Worker (pid:107) exited with code 1.
+[2023-12-04 05:37:53 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:112)
+[2023-12-04 05:37:53 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:113)
+[2023-12-04 05:37:53 +0000] [10] [ERROR] Worker (pid:113) exited with code 1
+[2023-12-04 05:37:53 +0000] [10] [ERROR] Worker (pid:113) exited with code 1.
+[2023-12-04 05:37:53 +0000] [10] [ERROR] Worker (pid:112) exited with code 1
+[2023-12-04 05:37:53 +0000] [10] [ERROR] Worker (pid:112) exited with code 1.
+[2023-12-04 05:37:53 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:111)
+[2023-12-04 05:37:53 +0000] [10] [ERROR] Worker (pid:111) exited with code 1
+[2023-12-04 05:37:53 +0000] [10] [ERROR] Worker (pid:111) exited with code 1.
+[2023-12-04 06:44:49 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:114)
+[2023-12-04 06:44:49 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:115)
+[2023-12-04 06:44:49 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:116)
+[2023-12-04 06:44:49 +0000] [10] [ERROR] Worker (pid:115) exited with code 1
+[2023-12-04 06:44:49 +0000] [10] [ERROR] Worker (pid:115) exited with code 1.
+[2023-12-04 06:44:49 +0000] [10] [ERROR] Worker (pid:114) exited with code 1
+[2023-12-04 06:44:49 +0000] [10] [ERROR] Worker (pid:114) exited with code 1.
+[2023-12-04 06:44:49 +0000] [10] [ERROR] Worker (pid:116) was sent SIGKILL! Perhaps out of memory?
+[2023-12-04 07:51:49 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:119)
+[2023-12-04 07:51:49 +0000] [10] [ERROR] Worker (pid:119) exited with code 1
+[2023-12-04 07:51:49 +0000] [10] [ERROR] Worker (pid:119) exited with code 1.
+[2023-12-04 08:58:56 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:117)
+[2023-12-04 08:58:56 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:118)
+[2023-12-04 08:58:56 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:120)
+[2023-12-04 08:58:56 +0000] [10] [ERROR] Worker (pid:120) exited with code 1
+[2023-12-04 08:58:56 +0000] [10] [ERROR] Worker (pid:120) exited with code 1.
+[2023-12-04 08:58:56 +0000] [10] [ERROR] Worker (pid:117) was sent SIGKILL! Perhaps out of memory?
+[2023-12-04 08:58:56 +0000] [10] [ERROR] Worker (pid:118) was sent SIGKILL! Perhaps out of memory?
+[2023-12-04 10:07:09 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:123)
+[2023-12-04 10:07:09 +0000] [10] [ERROR] Worker (pid:123) exited with code 1
+[2023-12-04 10:07:09 +0000] [10] [ERROR] Worker (pid:123) exited with code 1.
+[2023-12-04 11:11:19 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:121)
+[2023-12-04 11:11:19 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:122)
+[2023-12-04 11:11:19 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:124)
+[2023-12-04 11:11:20 +0000] [10] [ERROR] Worker (pid:124) exited with code 1
+[2023-12-04 11:11:20 +0000] [10] [ERROR] Worker (pid:124) exited with code 1.
+[2023-12-04 11:11:20 +0000] [10] [ERROR] Worker (pid:122) exited with code 1
+[2023-12-04 11:11:20 +0000] [10] [ERROR] Worker (pid:122) exited with code 1.
+[2023-12-04 11:11:20 +0000] [10] [ERROR] Worker (pid:121) exited with code 1
+[2023-12-04 11:11:20 +0000] [10] [ERROR] Worker (pid:121) exited with code 1.
+[2023-12-04 12:55:08 +0000] [9] [CRITICAL] WORKER TIMEOUT (pid:10)
+[2023-12-04 12:55:09 +0000] [9] [ERROR] Worker (pid:10) exited with code 1
+[2023-12-04 12:55:09 +0000] [9] [ERROR] Worker (pid:10) exited with code 1.
+[2023-12-04 13:33:53 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:11)
+[2023-12-04 13:33:53 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:12)
+[2023-12-04 13:33:54 +0000] [10] [ERROR] Worker (pid:11) exited with code 1
+[2023-12-04 13:33:54 +0000] [10] [ERROR] Worker (pid:11) exited with code 1.
+[2023-12-04 13:33:54 +0000] [10] [ERROR] Worker (pid:12) was sent SIGKILL! Perhaps out of memory?
+[2023-12-04 13:36:47 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:14)
+[2023-12-04 13:36:47 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:15)
+[2023-12-04 13:36:47 +0000] [10] [ERROR] Worker (pid:15) exited with code 1
+[2023-12-04 13:36:47 +0000] [10] [ERROR] Worker (pid:15) exited with code 1.
+[2023-12-04 13:36:47 +0000] [10] [ERROR] Worker (pid:14) exited with code 1
+[2023-12-04 13:36:47 +0000] [10] [ERROR] Worker (pid:14) exited with code 1.
+[2023-12-04 13:57:41 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:16)
+[2023-12-04 13:57:41 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:17)
+[2023-12-04 13:57:41 +0000] [10] [ERROR] Worker (pid:16) exited with code 1
+[2023-12-04 13:57:41 +0000] [10] [ERROR] Worker (pid:16) exited with code 1.
+[2023-12-04 13:57:41 +0000] [10] [ERROR] Worker (pid:17) exited with code 1
+[2023-12-04 13:57:41 +0000] [10] [ERROR] Worker (pid:17) exited with code 1.
+[2023-12-04 14:31:14 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:13)
+[2023-12-04 14:31:14 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:18)
+[2023-12-04 14:31:14 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:19)
+[2023-12-04 14:31:14 +0000] [10] [ERROR] Worker (pid:19) exited with code 1
+[2023-12-04 14:31:14 +0000] [10] [ERROR] Worker (pid:19) exited with code 1.
+[2023-12-04 14:31:14 +0000] [10] [ERROR] Worker (pid:13) was sent SIGKILL! Perhaps out of memory?
+[2023-12-04 15:35:53 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:20)
+[2023-12-04 15:35:53 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:21)
+[2023-12-04 15:35:53 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:22)
+[2023-12-04 15:35:53 +0000] [10] [ERROR] Worker (pid:20) exited with code 1
+[2023-12-04 15:35:53 +0000] [10] [ERROR] Worker (pid:20) exited with code 1.
+[2023-12-04 15:35:53 +0000] [10] [ERROR] Worker (pid:21) exited with code 1
+[2023-12-04 15:35:53 +0000] [10] [ERROR] Worker (pid:21) exited with code 1.
+[2023-12-04 15:35:53 +0000] [10] [ERROR] Worker (pid:22) was sent SIGKILL! Perhaps out of memory?
+[2023-12-04 16:59:01 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:23)
+[2023-12-04 16:59:01 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:24)
+[2023-12-04 16:59:01 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:25)
+[2023-12-04 16:59:01 +0000] [10] [ERROR] Worker (pid:23) exited with code 1
+[2023-12-04 16:59:01 +0000] [10] [ERROR] Worker (pid:23) exited with code 1.
+[2023-12-04 18:04:36 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:27)
+[2023-12-04 18:04:36 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:28)
+[2023-12-04 18:04:37 +0000] [10] [ERROR] Worker (pid:27) exited with code 1
+[2023-12-04 18:04:37 +0000] [10] [ERROR] Worker (pid:27) exited with code 1.
+[2023-12-04 18:04:37 +0000] [10] [ERROR] Worker (pid:28) exited with code 1
+[2023-12-04 18:04:37 +0000] [10] [ERROR] Worker (pid:28) exited with code 1.
+[2023-12-04 20:30:58 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:26)
+[2023-12-04 20:30:58 +0000] [10] [ERROR] Worker (pid:26) exited with code 1
+[2023-12-04 20:30:58 +0000] [10] [ERROR] Worker (pid:26) exited with code 1.
+[2023-12-05 01:39:41 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:29)
+[2023-12-05 01:39:41 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:30)
+[2023-12-05 01:39:41 +0000] [10] [ERROR] Worker (pid:29) exited with code 1
+[2023-12-05 01:39:41 +0000] [10] [ERROR] Worker (pid:29) exited with code 1.
+[2023-12-05 01:39:41 +0000] [10] [ERROR] Worker (pid:30) exited with code 1
+[2023-12-05 01:39:41 +0000] [10] [ERROR] Worker (pid:30) exited with code 1.
+[2023-12-05 02:30:59 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:32)
+[2023-12-05 02:30:59 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:33)
+[2023-12-05 02:30:59 +0000] [10] [ERROR] Worker (pid:33) exited with code 1
+[2023-12-05 02:30:59 +0000] [10] [ERROR] Worker (pid:33) exited with code 1.
+[2023-12-05 02:30:59 +0000] [10] [ERROR] Worker (pid:32) exited with code 1
+[2023-12-05 02:30:59 +0000] [10] [ERROR] Worker (pid:32) exited with code 1.
+[2023-12-05 03:29:18 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:31)
+[2023-12-05 03:29:18 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:34)
+[2023-12-05 03:29:18 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:35)
+[2023-12-05 03:29:18 +0000] [10] [ERROR] Worker (pid:35) exited with code 1
+[2023-12-05 03:29:18 +0000] [10] [ERROR] Worker (pid:35) exited with code 1.
+[2023-12-05 03:29:18 +0000] [10] [ERROR] Worker (pid:31) was sent SIGKILL! Perhaps out of memory?
+[2023-12-05 04:34:48 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:37)
+[2023-12-05 04:34:48 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:38)
+[2023-12-05 04:34:48 +0000] [10] [ERROR] Worker (pid:37) exited with code 1
+[2023-12-05 04:34:48 +0000] [10] [ERROR] Worker (pid:37) exited with code 1.
+[2023-12-05 04:34:48 +0000] [10] [ERROR] Worker (pid:38) exited with code 1
+[2023-12-05 04:34:48 +0000] [10] [ERROR] Worker (pid:38) exited with code 1.
+[2023-12-05 06:36:57 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:36)
+[2023-12-05 06:36:57 +0000] [10] [ERROR] Worker (pid:36) exited with code 1
+[2023-12-05 06:36:57 +0000] [10] [ERROR] Worker (pid:36) exited with code 1.
+[2023-12-05 07:46:12 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:41)
+[2023-12-05 07:46:12 +0000] [10] [ERROR] Worker (pid:41) exited with code 1
+[2023-12-05 07:46:12 +0000] [10] [ERROR] Worker (pid:41) exited with code 1.
+[2023-12-05 08:53:43 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:42)
+[2023-12-05 08:53:43 +0000] [10] [ERROR] Worker (pid:42) exited with code 1
+[2023-12-05 08:53:43 +0000] [10] [ERROR] Worker (pid:42) exited with code 1.
+[2023-12-05 09:59:59 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:43)
+[2023-12-05 09:59:59 +0000] [10] [ERROR] Worker (pid:43) exited with code 1
+[2023-12-05 09:59:59 +0000] [10] [ERROR] Worker (pid:43) exited with code 1.
+[2023-12-05 11:11:23 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:39)
+[2023-12-05 11:11:23 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:40)
+[2023-12-05 11:11:23 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:44)
+[2023-12-05 11:11:23 +0000] [10] [ERROR] Worker (pid:44) exited with code 1
+[2023-12-05 11:11:23 +0000] [10] [ERROR] Worker (pid:44) exited with code 1.
+[2023-12-05 11:11:23 +0000] [10] [ERROR] Worker (pid:40) was sent SIGKILL! Perhaps out of memory?
+[2023-12-05 11:11:23 +0000] [10] [ERROR] Worker (pid:39) was sent SIGKILL! Perhaps out of memory?
+[2023-12-05 11:54:09 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:46)
+[2023-12-05 11:54:09 +0000] [10] [CRITICAL] WORKER TIMEOUT (pid:47)
+[2023-12-05 11:54:10 +0000] [10] [ERROR] Worker (pid:46) exited with code 1
+[2023-12-05 11:54:10 +0000] [10] [ERROR] Worker (pid:46) exited with code 1.
+[2023-12-05 11:54:10 +0000] [10] [ERROR] Worker (pid:47) exited with code 1
+[2023-12-05 11:54:10 +0000] [10] [ERROR] Worker (pid:47) exited with code 1.
+[2023-12-06 12:34:37 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:13)
+[2023-12-06 12:34:37 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:14)
+[2023-12-06 12:34:37 +0000] [11] [ERROR] Worker (pid:14) exited with code 1
+[2023-12-06 12:34:37 +0000] [11] [ERROR] Worker (pid:14) exited with code 1.
+[2023-12-06 12:34:37 +0000] [11] [ERROR] Worker (pid:13) exited with code 1
+[2023-12-06 12:34:37 +0000] [11] [ERROR] Worker (pid:13) exited with code 1.
+[2023-12-06 13:43:07 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:26)
+[2023-12-06 13:43:07 +0000] [11] [ERROR] Worker (pid:26) exited with code 1
+[2023-12-06 13:43:07 +0000] [11] [ERROR] Worker (pid:26) exited with code 1.
+[2023-12-06 14:02:52 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:28)
+[2023-12-06 14:02:52 +0000] [11] [ERROR] Worker (pid:28) exited with code 1
+[2023-12-06 14:02:52 +0000] [11] [ERROR] Worker (pid:28) exited with code 1.
+[2023-12-06 14:18:48 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:29)
+[2023-12-06 14:18:48 +0000] [11] [ERROR] Worker (pid:29) exited with code 1
+[2023-12-06 14:18:48 +0000] [11] [ERROR] Worker (pid:29) exited with code 1.
+[2023-12-06 14:51:40 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:12)
+[2023-12-06 14:51:40 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:27)
+[2023-12-06 14:51:40 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:30)
+[2023-12-06 14:51:40 +0000] [11] [ERROR] Worker (pid:30) exited with code 1
+[2023-12-06 14:51:40 +0000] [11] [ERROR] Worker (pid:30) exited with code 1.
+[2023-12-06 14:51:40 +0000] [11] [ERROR] Worker (pid:27) was sent SIGKILL! Perhaps out of memory?
+[2023-12-06 15:57:17 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:31)
+[2023-12-06 15:57:17 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:32)
+[2023-12-06 15:57:17 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:33)
+[2023-12-06 15:57:17 +0000] [11] [ERROR] Worker (pid:32) exited with code 1
+[2023-12-06 15:57:17 +0000] [11] [ERROR] Worker (pid:32) exited with code 1.
+[2023-12-06 19:35:10 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:34)
+[2023-12-06 19:35:10 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:35)
+[2023-12-06 19:35:10 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:36)
+[2023-12-06 19:35:10 +0000] [11] [ERROR] Worker (pid:35) exited with code 1
+[2023-12-06 19:35:10 +0000] [11] [ERROR] Worker (pid:35) exited with code 1.
+[2023-12-06 19:35:10 +0000] [11] [ERROR] Worker (pid:34) exited with code 1
+[2023-12-06 19:35:10 +0000] [11] [ERROR] Worker (pid:34) exited with code 1.
+[2023-12-06 19:35:10 +0000] [11] [ERROR] Worker (pid:36) exited with code 1
+[2023-12-06 19:35:10 +0000] [11] [ERROR] Worker (pid:36) exited with code 1.
+[2023-12-06 20:42:07 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:39)
+[2023-12-06 20:42:07 +0000] [11] [ERROR] Worker (pid:39) exited with code 1
+[2023-12-06 20:42:07 +0000] [11] [ERROR] Worker (pid:39) exited with code 1.
+[2023-12-06 22:06:11 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:40)
+[2023-12-06 22:06:12 +0000] [11] [ERROR] Worker (pid:40) exited with code 1
+[2023-12-06 22:06:12 +0000] [11] [ERROR] Worker (pid:40) exited with code 1.
+[2023-12-06 23:10:20 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:37)
+[2023-12-06 23:10:20 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:38)
+[2023-12-06 23:10:20 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:41)
+[2023-12-06 23:10:20 +0000] [11] [ERROR] Worker (pid:41) exited with code 1
+[2023-12-06 23:10:20 +0000] [11] [ERROR] Worker (pid:41) exited with code 1.
+[2023-12-06 23:10:20 +0000] [11] [ERROR] Worker (pid:38) was sent SIGKILL! Perhaps out of memory?
+[2023-12-06 23:10:20 +0000] [11] [ERROR] Worker (pid:37) was sent SIGKILL! Perhaps out of memory?
+[2023-12-07 00:10:20 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:43)
+[2023-12-07 00:10:20 +0000] [11] [ERROR] Worker (pid:43) exited with code 1
+[2023-12-07 00:10:20 +0000] [11] [ERROR] Worker (pid:43) exited with code 1.
+[2023-12-07 01:41:20 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:42)
+[2023-12-07 01:41:20 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:44)
+[2023-12-07 01:41:20 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:45)
+[2023-12-07 01:41:20 +0000] [11] [ERROR] Worker (pid:42) exited with code 1
+[2023-12-07 01:41:20 +0000] [11] [ERROR] Worker (pid:42) exited with code 1.
+[2023-12-07 01:41:20 +0000] [11] [ERROR] Worker (pid:45) exited with code 1
+[2023-12-07 01:41:20 +0000] [11] [ERROR] Worker (pid:45) exited with code 1.
+[2023-12-07 02:47:35 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:48)
+[2023-12-07 02:47:35 +0000] [11] [ERROR] Worker (pid:48) exited with code 1
+[2023-12-07 02:47:35 +0000] [11] [ERROR] Worker (pid:48) exited with code 1.
+[2023-12-07 03:56:54 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:49)
+[2023-12-07 03:56:54 +0000] [11] [ERROR] Worker (pid:49) exited with code 1
+[2023-12-07 03:56:54 +0000] [11] [ERROR] Worker (pid:49) exited with code 1.
+[2023-12-07 04:57:49 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:46)
+[2023-12-07 04:57:49 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:47)
+[2023-12-07 04:57:49 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:50)
+[2023-12-07 04:57:49 +0000] [11] [ERROR] Worker (pid:50) exited with code 1
+[2023-12-07 04:57:49 +0000] [11] [ERROR] Worker (pid:50) exited with code 1.
+[2023-12-07 04:57:49 +0000] [11] [ERROR] Worker (pid:47) was sent SIGKILL! Perhaps out of memory?
+[2023-12-07 04:57:49 +0000] [11] [ERROR] Worker (pid:46) was sent SIGKILL! Perhaps out of memory?
+[2023-12-07 06:05:58 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:52)
+[2023-12-07 06:05:58 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:53)
+[2023-12-07 06:05:58 +0000] [11] [ERROR] Worker (pid:52) exited with code 1
+[2023-12-07 06:05:58 +0000] [11] [ERROR] Worker (pid:52) exited with code 1.
+[2023-12-07 08:23:17 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:54)
+[2023-12-07 08:23:17 +0000] [11] [ERROR] Worker (pid:54) exited with code 1
+[2023-12-07 08:23:17 +0000] [11] [ERROR] Worker (pid:54) exited with code 1.
+[2023-12-07 09:33:01 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:51)
+[2023-12-07 09:33:01 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:55)
+[2023-12-07 09:33:01 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:56)
+[2023-12-07 09:33:01 +0000] [11] [ERROR] Worker (pid:56) exited with code 1
+[2023-12-07 09:33:01 +0000] [11] [ERROR] Worker (pid:56) exited with code 1.
+[2023-12-07 09:33:01 +0000] [11] [ERROR] Worker (pid:51) was sent SIGKILL! Perhaps out of memory?
+[2023-12-07 09:33:01 +0000] [11] [ERROR] Worker (pid:55) was sent SIGKILL! Perhaps out of memory?
+[2023-12-07 10:22:08 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:57)
+[2023-12-07 10:22:08 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:59)
+[2023-12-07 10:22:08 +0000] [11] [ERROR] Worker (pid:57) exited with code 1
+[2023-12-07 10:22:08 +0000] [11] [ERROR] Worker (pid:57) exited with code 1.
+[2023-12-07 10:22:08 +0000] [11] [ERROR] Worker (pid:59) exited with code 1
+[2023-12-07 10:22:08 +0000] [11] [ERROR] Worker (pid:59) exited with code 1.
+[2023-12-07 11:07:43 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:61)
+[2023-12-07 11:07:43 +0000] [11] [ERROR] Worker (pid:61) exited with code 1
+[2023-12-07 11:07:43 +0000] [11] [ERROR] Worker (pid:61) exited with code 1.
+[2023-12-07 11:11:01 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:58)
+[2023-12-07 11:11:01 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:60)
+[2023-12-07 11:11:01 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:62)
+[2023-12-07 11:11:02 +0000] [11] [ERROR] Worker (pid:62) exited with code 1
+[2023-12-07 11:11:02 +0000] [11] [ERROR] Worker (pid:62) exited with code 1.
+[2023-12-07 11:11:02 +0000] [11] [ERROR] Worker (pid:60) exited with code 1
+[2023-12-07 11:11:02 +0000] [11] [ERROR] Worker (pid:60) exited with code 1.
+[2023-12-07 11:11:02 +0000] [11] [ERROR] Worker (pid:58) exited with code 1
+[2023-12-07 11:11:02 +0000] [11] [ERROR] Worker (pid:58) exited with code 1.
+[2023-12-07 12:55:41 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:64)
+[2023-12-07 12:55:41 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:65)
+[2023-12-07 12:55:41 +0000] [11] [ERROR] Worker (pid:64) exited with code 1
+[2023-12-07 12:55:41 +0000] [11] [ERROR] Worker (pid:64) exited with code 1.
+[2023-12-07 12:55:41 +0000] [11] [ERROR] Worker (pid:65) exited with code 1
+[2023-12-07 12:55:41 +0000] [11] [ERROR] Worker (pid:65) exited with code 1.
+[2023-12-07 13:37:37 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:63)
+[2023-12-07 13:37:37 +0000] [11] [ERROR] Worker (pid:63) exited with code 1
+[2023-12-07 13:37:37 +0000] [11] [ERROR] Worker (pid:63) exited with code 1.
+[2023-12-07 14:29:02 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:68)
+[2023-12-07 14:29:03 +0000] [11] [ERROR] Worker (pid:68) exited with code 1
+[2023-12-07 14:29:03 +0000] [11] [ERROR] Worker (pid:68) exited with code 1.
+[2023-12-07 15:02:11 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:69)
+[2023-12-07 15:02:11 +0000] [11] [ERROR] Worker (pid:69) exited with code 1
+[2023-12-07 15:02:11 +0000] [11] [ERROR] Worker (pid:69) exited with code 1.
+[2023-12-07 17:31:10 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:66)
+[2023-12-07 17:31:10 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:67)
+[2023-12-07 17:31:10 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:70)
+[2023-12-07 17:31:10 +0000] [11] [ERROR] Worker (pid:70) exited with code 1
+[2023-12-07 17:31:10 +0000] [11] [ERROR] Worker (pid:70) exited with code 1.
+[2023-12-07 17:31:10 +0000] [11] [ERROR] Worker (pid:66) was sent SIGKILL! Perhaps out of memory?
+[2023-12-07 17:31:10 +0000] [11] [ERROR] Worker (pid:67) was sent SIGKILL! Perhaps out of memory?
+[2023-12-07 21:02:26 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:71)
+[2023-12-07 21:02:26 +0000] [11] [ERROR] Worker (pid:71) exited with code 1
+[2023-12-07 21:02:26 +0000] [11] [ERROR] Worker (pid:71) exited with code 1.
+[2023-12-07 21:49:37 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:74)
+[2023-12-07 21:49:37 +0000] [11] [ERROR] Worker (pid:74) exited with code 1
+[2023-12-07 21:49:37 +0000] [11] [ERROR] Worker (pid:74) exited with code 1.
+[2023-12-07 22:54:13 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:72)
+[2023-12-07 22:54:13 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:73)
+[2023-12-07 22:54:13 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:75)
+[2023-12-07 22:54:13 +0000] [11] [ERROR] Worker (pid:75) exited with code 1
+[2023-12-07 22:54:13 +0000] [11] [ERROR] Worker (pid:75) exited with code 1.
+[2023-12-07 22:54:13 +0000] [11] [ERROR] Worker (pid:72) was sent SIGKILL! Perhaps out of memory?
+[2023-12-07 22:54:13 +0000] [11] [ERROR] Worker (pid:73) was sent SIGKILL! Perhaps out of memory?
+[2023-12-07 23:12:36 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:76)
+[2023-12-07 23:12:36 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:77)
+[2023-12-07 23:12:36 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:78)
+[2023-12-07 23:12:36 +0000] [11] [ERROR] Worker (pid:78) exited with code 1
+[2023-12-07 23:12:36 +0000] [11] [ERROR] Worker (pid:78) exited with code 1.
+[2023-12-07 23:12:36 +0000] [11] [ERROR] Worker (pid:77) exited with code 1
+[2023-12-07 23:12:36 +0000] [11] [ERROR] Worker (pid:77) exited with code 1.
+[2023-12-07 23:28:31 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:79)
+[2023-12-07 23:28:31 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:80)
+[2023-12-07 23:28:31 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:81)
+[2023-12-07 23:28:31 +0000] [11] [ERROR] Worker (pid:80) exited with code 1
+[2023-12-07 23:28:31 +0000] [11] [ERROR] Worker (pid:80) exited with code 1.
+[2023-12-07 23:36:56 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:82)
+[2023-12-07 23:36:56 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:83)
+[2023-12-07 23:36:56 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:84)
+[2023-12-07 23:36:56 +0000] [11] [ERROR] Worker (pid:83) exited with code 1
+[2023-12-07 23:36:56 +0000] [11] [ERROR] Worker (pid:83) exited with code 1.
+[2023-12-07 23:36:56 +0000] [11] [ERROR] Worker (pid:84) exited with code 1
+[2023-12-07 23:36:56 +0000] [11] [ERROR] Worker (pid:84) exited with code 1.
+[2023-12-07 23:36:56 +0000] [11] [ERROR] Worker (pid:82) exited with code 1
+[2023-12-07 23:36:56 +0000] [11] [ERROR] Worker (pid:82) exited with code 1.
+[2023-12-08 00:03:19 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:85)
+[2023-12-08 00:03:19 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:86)
+[2023-12-08 00:03:19 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:87)
+[2023-12-08 00:03:20 +0000] [11] [ERROR] Worker (pid:85) exited with code 1
+[2023-12-08 00:03:20 +0000] [11] [ERROR] Worker (pid:85) exited with code 1.
+[2023-12-08 00:03:20 +0000] [11] [ERROR] Worker (pid:87) exited with code 1
+[2023-12-08 00:03:20 +0000] [11] [ERROR] Worker (pid:87) exited with code 1.
+[2023-12-08 00:58:37 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:88)
+[2023-12-08 00:58:37 +0000] [11] [ERROR] Worker (pid:88) exited with code 1
+[2023-12-08 00:58:37 +0000] [11] [ERROR] Worker (pid:88) exited with code 1.
+[2023-12-08 01:35:48 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:91)
+[2023-12-08 01:35:48 +0000] [11] [ERROR] Worker (pid:91) exited with code 1
+[2023-12-08 01:35:48 +0000] [11] [ERROR] Worker (pid:91) exited with code 1.
+[2023-12-08 01:39:18 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:92)
+[2023-12-08 01:39:18 +0000] [11] [ERROR] Worker (pid:92) exited with code 1
+[2023-12-08 01:39:18 +0000] [11] [ERROR] Worker (pid:92) exited with code 1.
+[2023-12-08 02:20:14 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:89)
+[2023-12-08 02:20:14 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:90)
+[2023-12-08 02:20:14 +0000] [11] [ERROR] Worker (pid:89) exited with code 1
+[2023-12-08 02:20:14 +0000] [11] [ERROR] Worker (pid:89) exited with code 1.
+[2023-12-08 02:20:14 +0000] [11] [ERROR] Worker (pid:90) exited with code 1
+[2023-12-08 02:20:14 +0000] [11] [ERROR] Worker (pid:90) exited with code 1.
+[2023-12-08 03:26:05 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:95)
+[2023-12-08 03:26:05 +0000] [11] [ERROR] Worker (pid:95) exited with code 1
+[2023-12-08 03:26:05 +0000] [11] [ERROR] Worker (pid:95) exited with code 1.
+[2023-12-08 05:30:27 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:93)
+[2023-12-08 05:30:27 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:94)
+[2023-12-08 05:30:27 +0000] [11] [ERROR] Worker (pid:94) exited with code 1
+[2023-12-08 05:30:27 +0000] [11] [ERROR] Worker (pid:94) exited with code 1.
+[2023-12-08 05:30:27 +0000] [11] [ERROR] Worker (pid:93) was sent SIGKILL! Perhaps out of memory?
+[2023-12-08 06:53:44 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:97)
+[2023-12-08 06:53:44 +0000] [11] [ERROR] Worker (pid:97) exited with code 1
+[2023-12-08 06:53:44 +0000] [11] [ERROR] Worker (pid:97) exited with code 1.
+[2023-12-08 07:53:44 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:96)
+[2023-12-08 07:53:44 +0000] [11] [ERROR] Worker (pid:96) exited with code 1
+[2023-12-08 07:53:44 +0000] [11] [ERROR] Worker (pid:96) exited with code 1.
+[2023-12-08 09:00:05 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:100)
+[2023-12-08 09:00:05 +0000] [11] [ERROR] Worker (pid:100) exited with code 1
+[2023-12-08 09:00:05 +0000] [11] [ERROR] Worker (pid:100) exited with code 1.
+[2023-12-08 09:38:21 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:101)
+[2023-12-08 09:38:21 +0000] [11] [ERROR] Worker (pid:101) exited with code 1
+[2023-12-08 09:38:21 +0000] [11] [ERROR] Worker (pid:101) exited with code 1.
+[2023-12-08 10:19:22 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:98)
+[2023-12-08 10:19:22 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:99)
+[2023-12-08 10:19:22 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:102)
+[2023-12-08 10:19:22 +0000] [11] [ERROR] Worker (pid:102) exited with code 1
+[2023-12-08 10:19:22 +0000] [11] [ERROR] Worker (pid:99) exited with code 1
+[2023-12-08 10:19:22 +0000] [11] [ERROR] Worker (pid:99) exited with code 1.
+[2023-12-08 10:19:22 +0000] [11] [ERROR] Worker (pid:102) exited with code 1.
+[2023-12-08 10:19:22 +0000] [11] [ERROR] Worker (pid:98) was sent SIGKILL! Perhaps out of memory?
+[2023-12-08 10:49:53 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:104)
+[2023-12-08 10:49:53 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:105)
+[2023-12-08 10:49:53 +0000] [11] [ERROR] Worker (pid:104) exited with code 1
+[2023-12-08 10:49:53 +0000] [11] [ERROR] Worker (pid:104) exited with code 1.
+[2023-12-08 10:49:53 +0000] [11] [ERROR] Worker (pid:105) exited with code 1
+[2023-12-08 10:49:53 +0000] [11] [ERROR] Worker (pid:105) exited with code 1.
+[2023-12-08 11:05:51 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:106)
+[2023-12-08 11:05:51 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:107)
+[2023-12-08 11:05:51 +0000] [11] [ERROR] Worker (pid:106) exited with code 1
+[2023-12-08 11:05:51 +0000] [11] [ERROR] Worker (pid:106) exited with code 1.
+[2023-12-08 11:05:51 +0000] [11] [ERROR] Worker (pid:107) exited with code 1
+[2023-12-08 11:05:51 +0000] [11] [ERROR] Worker (pid:107) exited with code 1.
+[2023-12-08 11:39:45 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:108)
+[2023-12-08 11:39:45 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:109)
+[2023-12-08 11:39:45 +0000] [11] [ERROR] Worker (pid:108) exited with code 1
+[2023-12-08 11:39:45 +0000] [11] [ERROR] Worker (pid:108) exited with code 1.
+[2023-12-08 11:39:45 +0000] [11] [ERROR] Worker (pid:109) exited with code 1
+[2023-12-08 11:39:45 +0000] [11] [ERROR] Worker (pid:109) exited with code 1.
+[2023-12-08 12:43:47 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:103)
+[2023-12-08 12:43:47 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:110)
+[2023-12-08 12:43:47 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:111)
+[2023-12-08 12:43:47 +0000] [11] [ERROR] Worker (pid:110) exited with code 1
+[2023-12-08 12:43:47 +0000] [11] [ERROR] Worker (pid:110) exited with code 1.
+[2023-12-08 12:43:47 +0000] [11] [ERROR] Worker (pid:111) exited with code 1
+[2023-12-08 12:43:47 +0000] [11] [ERROR] Worker (pid:111) exited with code 1.
+[2023-12-08 12:43:47 +0000] [11] [ERROR] Worker (pid:103) was sent SIGKILL! Perhaps out of memory?
+[2023-12-08 13:44:22 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:112)
+[2023-12-08 13:44:22 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:113)
+[2023-12-08 13:44:22 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:114)
+[2023-12-08 13:44:22 +0000] [11] [ERROR] Worker (pid:112) exited with code 1
+[2023-12-08 13:44:22 +0000] [11] [ERROR] Worker (pid:112) exited with code 1.
+[2023-12-08 13:44:22 +0000] [11] [ERROR] Worker (pid:113) exited with code 1
+[2023-12-08 13:44:22 +0000] [11] [ERROR] Worker (pid:113) exited with code 1.
+[2023-12-08 13:44:22 +0000] [11] [ERROR] Worker (pid:114) exited with code 1
+[2023-12-08 13:44:22 +0000] [11] [ERROR] Worker (pid:114) exited with code 1.
+[2023-12-08 14:05:03 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:115)
+[2023-12-08 14:05:03 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:116)
+[2023-12-08 14:05:03 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:117)
+[2023-12-08 14:05:03 +0000] [11] [ERROR] Worker (pid:115) exited with code 1
+[2023-12-08 14:05:03 +0000] [11] [ERROR] Worker (pid:115) exited with code 1.
+[2023-12-08 14:38:17 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:119)
+[2023-12-08 14:38:17 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:120)
+[2023-12-08 14:38:17 +0000] [11] [ERROR] Worker (pid:119) exited with code 1
+[2023-12-08 14:38:17 +0000] [11] [ERROR] Worker (pid:119) exited with code 1.
+[2023-12-08 14:38:17 +0000] [11] [ERROR] Worker (pid:120) exited with code 1
+[2023-12-08 14:38:17 +0000] [11] [ERROR] Worker (pid:120) exited with code 1.
+[2023-12-08 15:29:28 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:121)
+[2023-12-08 15:29:28 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:122)
+[2023-12-08 15:29:28 +0000] [11] [ERROR] Worker (pid:121) exited with code 1
+[2023-12-08 15:29:28 +0000] [11] [ERROR] Worker (pid:121) exited with code 1.
+[2023-12-08 15:29:28 +0000] [11] [ERROR] Worker (pid:122) exited with code 1
+[2023-12-08 15:29:28 +0000] [11] [ERROR] Worker (pid:122) exited with code 1.
+[2023-12-08 17:54:43 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:118)
+[2023-12-08 17:54:43 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:123)
+[2023-12-08 17:54:43 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:124)
+[2023-12-08 17:54:43 +0000] [11] [ERROR] Worker (pid:123) exited with code 1
+[2023-12-08 17:54:43 +0000] [11] [ERROR] Worker (pid:123) exited with code 1.
+[2023-12-08 17:54:43 +0000] [11] [ERROR] Worker (pid:124) was sent SIGKILL! Perhaps out of memory?
+[2023-12-08 17:54:43 +0000] [11] [ERROR] Worker (pid:118) was sent SIGKILL! Perhaps out of memory?
+[2023-12-08 19:00:34 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:125)
+[2023-12-08 19:00:34 +0000] [11] [ERROR] Worker (pid:125) exited with code 1
+[2023-12-08 19:00:34 +0000] [11] [ERROR] Worker (pid:125) exited with code 1.
+[2023-12-08 20:09:29 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:126)
+[2023-12-08 20:09:29 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:127)
+[2023-12-08 20:09:29 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:128)
+[2023-12-08 20:09:29 +0000] [11] [ERROR] Worker (pid:128) exited with code 1
+[2023-12-08 20:09:29 +0000] [11] [ERROR] Worker (pid:128) exited with code 1.
+[2023-12-08 20:09:29 +0000] [11] [ERROR] Worker (pid:126) was sent SIGKILL! Perhaps out of memory?
+[2023-12-08 20:09:29 +0000] [11] [ERROR] Worker (pid:127) was sent SIGKILL! Perhaps out of memory?
+[2023-12-08 21:15:29 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:131)
+[2023-12-08 21:15:29 +0000] [11] [ERROR] Worker (pid:131) exited with code 1
+[2023-12-08 21:15:29 +0000] [11] [ERROR] Worker (pid:131) exited with code 1.
+[2023-12-08 22:39:50 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:132)
+[2023-12-08 22:39:50 +0000] [11] [ERROR] Worker (pid:132) exited with code 1
+[2023-12-08 22:39:50 +0000] [11] [ERROR] Worker (pid:132) exited with code 1.
+[2023-12-09 00:48:25 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:129)
+[2023-12-09 00:48:25 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:130)
+[2023-12-09 00:48:25 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:133)
+[2023-12-09 00:48:25 +0000] [11] [ERROR] Worker (pid:133) exited with code 1
+[2023-12-09 00:48:25 +0000] [11] [ERROR] Worker (pid:133) exited with code 1.
+[2023-12-09 00:48:25 +0000] [11] [ERROR] Worker (pid:129) was sent SIGKILL! Perhaps out of memory?
+[2023-12-09 00:48:25 +0000] [11] [ERROR] Worker (pid:130) was sent SIGKILL! Perhaps out of memory?
+[2023-12-09 01:54:02 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:135)
+[2023-12-09 01:54:02 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:136)
+[2023-12-09 01:54:02 +0000] [11] [ERROR] Worker (pid:135) exited with code 1
+[2023-12-09 01:54:02 +0000] [11] [ERROR] Worker (pid:135) exited with code 1.
+[2023-12-09 01:54:02 +0000] [11] [ERROR] Worker (pid:136) exited with code 1
+[2023-12-09 01:54:02 +0000] [11] [ERROR] Worker (pid:136) exited with code 1.
+[2023-12-09 03:16:42 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:134)
+[2023-12-09 03:16:42 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:138)
+[2023-12-09 03:16:42 +0000] [11] [ERROR] Worker (pid:134) exited with code 1
+[2023-12-09 03:16:42 +0000] [11] [ERROR] Worker (pid:134) exited with code 1.
+[2023-12-09 03:16:42 +0000] [11] [ERROR] Worker (pid:138) exited with code 1
+[2023-12-09 03:16:42 +0000] [11] [ERROR] Worker (pid:138) exited with code 1.
+[2023-12-09 04:23:53 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:139)
+[2023-12-09 04:23:53 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:140)
+[2023-12-09 04:23:53 +0000] [11] [ERROR] Worker (pid:140) exited with code 1
+[2023-12-09 04:23:53 +0000] [11] [ERROR] Worker (pid:140) exited with code 1.
+[2023-12-09 04:23:53 +0000] [11] [ERROR] Worker (pid:139) exited with code 1
+[2023-12-09 04:23:53 +0000] [11] [ERROR] Worker (pid:139) exited with code 1.
+[2023-12-09 04:50:41 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:141)
+[2023-12-09 04:50:41 +0000] [11] [ERROR] Worker (pid:141) exited with code 1
+[2023-12-09 04:50:41 +0000] [11] [ERROR] Worker (pid:141) exited with code 1.
+[2023-12-09 06:21:10 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:137)
+[2023-12-09 06:21:10 +0000] [11] [ERROR] Worker (pid:137) exited with code 1
+[2023-12-09 06:21:10 +0000] [11] [ERROR] Worker (pid:137) exited with code 1.
+[2023-12-09 07:26:02 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:144)
+[2023-12-09 07:26:02 +0000] [11] [ERROR] Worker (pid:144) exited with code 1
+[2023-12-09 07:26:02 +0000] [11] [ERROR] Worker (pid:144) exited with code 1.
+[2023-12-09 08:43:37 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:142)
+[2023-12-09 08:43:37 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:143)
+[2023-12-09 08:43:37 +0000] [11] [ERROR] Worker (pid:143) exited with code 1
+[2023-12-09 08:43:37 +0000] [11] [ERROR] Worker (pid:143) exited with code 1.
+[2023-12-09 08:43:37 +0000] [11] [ERROR] Worker (pid:142) was sent SIGKILL! Perhaps out of memory?
+[2023-12-09 09:19:12 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:146)
+[2023-12-09 09:19:12 +0000] [11] [ERROR] Worker (pid:146) exited with code 1
+[2023-12-09 09:19:12 +0000] [11] [ERROR] Worker (pid:146) exited with code 1.
+[2023-12-09 10:00:30 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:145)
+[2023-12-09 10:00:30 +0000] [11] [ERROR] Worker (pid:145) exited with code 1
+[2023-12-09 10:00:30 +0000] [11] [ERROR] Worker (pid:145) exited with code 1.
+[2023-12-09 10:07:28 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:149)
+[2023-12-09 10:07:28 +0000] [11] [ERROR] Worker (pid:149) exited with code 1
+[2023-12-09 10:07:28 +0000] [11] [ERROR] Worker (pid:149) exited with code 1.
+[2023-12-09 10:18:24 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:150)
+[2023-12-09 10:18:24 +0000] [11] [ERROR] Worker (pid:150) exited with code 1
+[2023-12-09 10:18:24 +0000] [11] [ERROR] Worker (pid:150) exited with code 1.
+[2023-12-09 11:42:26 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:147)
+[2023-12-09 11:42:26 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:148)
+[2023-12-09 11:42:26 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:151)
+[2023-12-09 11:42:26 +0000] [11] [ERROR] Worker (pid:151) exited with code 1
+[2023-12-09 11:42:26 +0000] [11] [ERROR] Worker (pid:151) exited with code 1.
+[2023-12-09 11:42:26 +0000] [11] [ERROR] Worker (pid:148) was sent SIGKILL! Perhaps out of memory?
+[2023-12-09 11:42:26 +0000] [11] [ERROR] Worker (pid:147) was sent SIGKILL! Perhaps out of memory?
+[2023-12-09 11:53:22 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:152)
+[2023-12-09 11:53:22 +0000] [11] [ERROR] Worker (pid:152) exited with code 1
+[2023-12-09 11:53:22 +0000] [11] [ERROR] Worker (pid:152) exited with code 1.
+[2023-12-09 13:16:59 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:153)
+[2023-12-09 13:16:59 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:154)
+[2023-12-09 13:16:59 +0000] [11] [ERROR] Worker (pid:153) exited with code 1
+[2023-12-09 13:16:59 +0000] [11] [ERROR] Worker (pid:153) exited with code 1.
+[2023-12-09 13:16:59 +0000] [11] [ERROR] Worker (pid:154) exited with code 1
+[2023-12-09 13:16:59 +0000] [11] [ERROR] Worker (pid:154) exited with code 1.
+[2023-12-09 13:33:23 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:156)
+[2023-12-09 13:33:23 +0000] [11] [CRITICAL] WORKER TIMEOUT (pid:157)
+[2023-12-09 13:33:24 +0000] [11] [ERROR] Worker (pid:156) exited with code 1
+[2023-12-09 13:33:24 +0000] [11] [ERROR] Worker (pid:156) exited with code 1.
+[2023-12-09 13:33:24 +0000] [11] [ERROR] Worker (pid:157) exited with code 1
+[2023-12-09 13:33:24 +0000] [11] [ERROR] Worker (pid:157) exited with code 1.
