@@ -29,7 +29,7 @@ module.exports = {
   assetsDir: 'static',
   lintOnSave: process.env.NODE_ENV === 'development',
   productionSourceMap: false,
-  // 本地开发
+  // 本地开发，前端mocks接口
   // devServer: {
   //   host: "localhost",
   //   port: port,
@@ -40,7 +40,8 @@ module.exports = {
   //   },
   //   before: require('./mock/mock-server.js')
   // },
-  // 本地开发前端连调生产环境后端
+
+  // 本地开发，前端连调后端接口
   devServer: {
     host: "localhost",
     port: port,
